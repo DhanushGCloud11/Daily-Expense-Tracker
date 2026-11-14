@@ -26,7 +26,6 @@ A simple and responsive Daily Expense Tracker built using HTML, CSS, and Vanilla
 ## Project Structure
 
 daily-expense-tracker/
-│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -56,3 +55,7 @@ Your data remains available in the same browser unless its site data is cleared.
 ## Author
 
 Daily Expense Tracker Project
+
+## Project Status
+
+Initial development completed.
